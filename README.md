@@ -8,6 +8,7 @@ This is a sample Spring Boot application integrated with PostgreSQL for data sto
 - Maven or Gradle
 - PostgreSQL database server
 
+
 ### PostgreSQL
 
 Ensure that PostgreSQL database is configured properly. Configure the database connection settings in the `application.properties` file:
@@ -18,5 +19,5 @@ spring.datasource.username=username
 spring.datasource.password=password
 spring.datasource.driver-class-name=org.postgresql.Driver
 
-#### Steps
+
 
